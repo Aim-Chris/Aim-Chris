@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aim-Chris
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning how to work together in coding projects
+- 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me...
 
